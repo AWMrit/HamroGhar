@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004519081038",
+    "firebase_url": "https://hamroghar-2c905.firebaseio.com",
+    "project_id": "hamroghar-2c905",
+    "storage_bucket": "hamroghar-2c905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004519081038:android:924f6d2626a69ea0ceef1f",
+        "android_client_info": {
+          "package_name": "com.test.HamroGhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004519081038-ok55jfm0hjstaigcod41artvhhaknavr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZ-uq2yyG7Aix7GixEVS1T2fmDA8ePYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004519081038-ok55jfm0hjstaigcod41artvhhaknavr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
